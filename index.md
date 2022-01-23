@@ -7,3 +7,6 @@ You can find the video for Explain Your Program Week 1 [here](https://youtu.be/g
 You can find the video for Explain Your Program Week 2 [here](https://youtu.be/fZ562U5e-Tg).
 
 You can find the video for Teaching Programming Portfolio - Lesson Plan from Week 2 [here](https://youtu.be/o2GwWsEljEM).
+
+## Week 3 Videos
+You can find the video for Explain Your Program Week 3 [here](https://youtu.be/BJPcU-t3Who).
