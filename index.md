@@ -12,3 +12,6 @@ You can find the video for Teaching Programming Portfolio - Lesson Plan from Wee
 You can find the video for Explain Your Program Week 3 [here](https://youtu.be/BJPcU-t3Who).
 
 You can find the video for Write and Explain a Program Week 3 [here](https://youtu.be/ddoPZVvqisA). This link is for the second video assignment in week 3. 
+
+## Week 4 Videos
+You can find the video for Explain Your Program Week 4 [here](https://youtu.be/oywdGF1IStY).
