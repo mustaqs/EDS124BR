@@ -15,3 +15,6 @@ You can find the video for Write and Explain a Program Week 3 [here](https://you
 
 ## Week 4 Videos
 You can find the video for Explain Your Program Week 4 [here](https://youtu.be/oywdGF1IStY).
+
+## Week 5 Videos
+You can find the video for Explain Your Program Week 5 [here](https://youtu.be/KqhU4KezX2g).
