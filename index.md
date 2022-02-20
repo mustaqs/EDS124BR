@@ -21,3 +21,6 @@ You can find the video for Explain Your Program Week 5 [here](https://youtu.be/K
 
 ## Week 6 Videos
 You can find the video for Explain Your Program Week 6 [here](https://youtu.be/RudlUJvH8Yg).
+
+## Week 6 Videos
+You can find the video for Explain Your Program Week 7 [here](https://youtu.be/5760Sj-oOhI).
