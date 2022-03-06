@@ -27,3 +27,6 @@ You can find the video for Explain Your Program Week 7 [here](https://youtu.be/5
 
 ## Week 8 Videos
 You can find the video for Explain Your Program Week 8 [here](https://youtu.be/DKiVivSU8h8).
+
+## Week 9 Videos
+You can find the video for Explain Your Program Week 9 [here](https://youtu.be/Y1u1boIEf2g).
